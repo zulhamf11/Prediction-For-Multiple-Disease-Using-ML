@@ -3,3 +3,4 @@ streamlit_option_menu
 sklearn
 pandas 
 numpy
+pickleshare==0.7.5
